@@ -48,19 +48,3 @@ This Terraform module is designed to simplify the creation of an ECS (Elastic Co
 
 - This module assumes you have appropriate IAM permissions to create and manage resources on AWS.
 - Make sure to review and adjust the settings according to your specific requirements before applying the Terraform configuration.
-
-## Contributing
-
-Contributions are welcome! If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
-
-## License
-
-This module is licensed under the MIT License. See the LICENSE file for details.
-
-## Author
-
-[Your Name] - [Your Email]
-
-## Repository
-
-[Link to your GitHub repository]
